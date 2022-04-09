@@ -1,25 +1,25 @@
-# Fork & Clone
+## Fork & Clone
 
 Fork and clone [this repository](https://github.com/JoinCODED/age-calculator) in your `python` directory.
 
 ---
 
-# Task 
+## Task
 
 In this task you'll be creating an age calculator where the user will input their birth date and the program will give them back their age.
 
 In this task, you'll create a python script that calculates the user's age. The user enters their birth year, month, and day, and the script prints their age.
 
-Assuming today's date is September 4th, 2019:
+**For example**, assuming today's date is September 4th, 2019:
 
-```
+```bash
 Enter year of birth: 2000
 Enter month of birth: 6
 Enter day of birth: 6
 You are 18 years old.
 ```
 
-## Steps:
+## Steps
 
 1. Create a function and name it "`get_dob`" (`dob` is short for date of birth):
     - Takes no parameters.
